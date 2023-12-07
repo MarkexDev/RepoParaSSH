@@ -1,1 +1,1 @@
-print('Hola mundo en phyton y Git')
+print('Ingresa un numero:')
